@@ -15,7 +15,7 @@ namespace ConsoleApplication1
 
         public static String CreateMessage()
         {
-            return "Hello world";
+            return "Hello world!";
         }
     }
 }
